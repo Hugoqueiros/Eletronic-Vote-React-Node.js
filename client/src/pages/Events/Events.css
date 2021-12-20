@@ -1,0 +1,103 @@
+.card-link{
+  background-color: #01cf01d7;
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid #01cf01d7;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+.card-link:hover{
+  background-color: #058d05d7;
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid #01cf01d7;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+.card-body{
+  margin: 70px;
+  border: 1px solid #f7b03e;
+  background-color: #FBFEF9;
+}
+
+.card-title{
+  font-weight: bold;
+}
+
+.card-historic{
+  background-color: #f7b03e;
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid #f7b03e;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+.card-historic:hover{
+  background-color: #df9115;
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid #df9115;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+.btn-disponible{
+  background-color: #01cf01d7;
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid #01cf01d7;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+.btn-disponible:hover{
+  background-color: #058d05d7;
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid #01cf01d7;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+.modal-header{
+  background-color: #df9115;
+  color: #fff;
+  border: 1px solid #df9115;
+}
+
+.modal-body{
+  background-color: #FBFEF9;
+}
+
+.modal-footer{
+  background-color: #f7b03f;
+}
+
+.pesquisa-evento{
+  font-size: 18px;
+  border: 1px solid #f7b03e;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+.pesquisa-evento::after{
+  font-size: 18px;
+  background-color: #f7be64 ;
+  border: 1px solid #f7b03e;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+.barra_pesquisa{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.card-text-vote{
+  color:#00f329;
+  font-weight: bold;
+}

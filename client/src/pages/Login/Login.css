@@ -1,0 +1,32 @@
+.login-content{
+  width: 100%;
+  padding: 15%;
+  margin: auto;
+  background-color: #FBFEF9;
+  height: 100vh;
+}
+
+.btn-login{
+  background-color: #f7b03e;
+  color: #fff
+}
+
+.btn-login:hover{
+  background-color: #7a5313;
+  color: #fff;
+}
+
+.recover-pw{
+  text-decoration: none;
+  color: #000000;
+  transition: .5s ease-in;
+}
+
+.recover-pw:hover{
+  text-decoration: none;
+  color: #7a5313;
+}
+
+.login-msg-erro{
+  color: #da0606;
+}

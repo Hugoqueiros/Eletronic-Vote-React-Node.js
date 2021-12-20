@@ -1,0 +1,49 @@
+.navbar{
+    background-color: #f7b03e;
+    color: #fff;
+}
+
+
+.navbar-toggler-icon{
+    color: #fff;
+    
+}
+
+.nav-item a{
+    color: #fff;;
+}
+
+.nav-item-button{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;    
+}
+
+.navbar-brand{
+    color: #ffffff;
+}
+
+.navbar-brand:hover{
+    color: rgb(90, 90, 90);
+}
+
+.nav-item:hover a{
+    color: rgb(245, 244, 244);
+}
+
+.three-bars{
+    color: #f7b03e;
+}
+
+.btn-outline-danger{
+    color: #fff;
+    background-color: #f7b03e;
+    border:0px
+}
+
+.btn-outline-danger{
+    color: #fff;
+    background-color: #f7b03e;
+    border:0px
+}

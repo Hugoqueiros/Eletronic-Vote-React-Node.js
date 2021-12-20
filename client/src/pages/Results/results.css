@@ -1,0 +1,7 @@
+.center-vote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: #f7b03e;
+}

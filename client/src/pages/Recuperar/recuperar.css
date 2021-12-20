@@ -1,0 +1,20 @@
+.title-change{
+    color: #f7b03e;
+}
+
+.card-change{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    border: 1px solid #f7b03e;
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+
+.card-change:focus{
+    color: rgb(0, 0, 0);
+    background-color: #f7be64 ;
+    font-size: 18px;
+    border: 1px solid #f7b03e;
+    padding: 10px 15px;
+    border-radius: 8px;
+}

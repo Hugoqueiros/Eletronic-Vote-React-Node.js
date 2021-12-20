@@ -1,0 +1,16 @@
+.pesquisa-evento{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    border: 1px solid #f7b03e;
+    padding: 10px 15px;
+    border-radius: 8px;
+  }
+  
+  .pesquisa-evento:focus{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    background-color: #f7be64 ;
+    border: 1px solid #f7b03e;
+    padding: 10px 15px;
+    border-radius: 8px;
+  }

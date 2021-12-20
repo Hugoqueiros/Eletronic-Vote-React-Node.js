@@ -1,0 +1,44 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color: #f7b03e;
+    border-radius: 8px;
+    padding: 5px 5px;
+}
+
+.card{
+    background-color: #f7b03e;
+    border: #f7b03e;
+    color: #fff;
+    font-size: 25px;
+}
+
+.center-vote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: #f7b03e;
+}
+
+.btn-disponible{
+    background-color: #01cf01d7;
+    color: #fff;
+    font-size: 18px;
+    border: 1px solid #01cf01d7;
+    padding: 10px 15px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.center-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
